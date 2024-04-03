@@ -14,5 +14,5 @@
 14. Palindrome Number: [C++](CPP/palindromeNumber.cpp) | [Java](Java/PalindromeNumber.java) | [Python](Python/palindromeNumber.py)
 
 
-touch CPP/palindromeNumber.cpp Java/PalindromeNumber.java Python/palindromeNumber.py
+
 

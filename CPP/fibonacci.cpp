@@ -2,7 +2,7 @@
     *   Name: fibonacci.cpp
     *   
     *   Define the function fibonacci() that takes an integer argument and
-    *   returns an of integers containing the first n Fibonacci numbers.
+    *   returns an array of integers containing the first n Fibonacci numbers.
     *   The first two Fibonacci numbers are 0 and 1, and each subsequent number
     *   is the sum of the previous two.
     *   For example, if the function is called with an argument of 10, the
@@ -22,9 +22,8 @@ using namespace std;
 
 int main()
 {
-    // Call your function, passing in the number
-    // of Fibonacci numbers you would like to generate
-    // Write your function call here
+    // Call your function with the number of
+    // Fibonacci numbers you would like to generate
 
 
     
