@@ -6,9 +6,10 @@
 6. Average of N Numbers: [C++](CPP/average.cpp) | [Java](Java/Average.java) | [Python](Python/average.py)
 7. Temperature Converter: [C++](CPP/temperature.cpp) | [Java](Java/Temperature.java) | [Python](Python/temperature.py)
 8. Integer to String: [C++](CPP/intToString.cpp) | [Java](Java/IntToString.java) | [Python](Python/intToString.py)
-9. Is Prime?: [C++](CPP/Prime.cpp) | [Java](Java/Prime.java) | [Python](Python/Prime.py)
-10. Factorial: [C++](CPP/factorial.cpp) | [Java](Java/Factorial.java) | [Python](Python/factorial.py)
-11. Student Class: [C++](CPP/Student/Student.h) | [Java](Java/Student/Student.java) | [Python](Python/Student/Student.py)
+9. Reverse an Array (In-Place): [C++](CPP/reverseArray.cpp) | [Java](Java/ReverseArray.java) | [Python](Python/reverseArray.py)
+10. Is Prime?: [C++](CPP/Prime.cpp) | [Java](Java/Prime.java) | [Python](Python/Prime.py)
+11. Factorial: [C++](CPP/factorial.cpp) | [Java](Java/Factorial.java) | [Python](Python/factorial.py)
+12. Student Class: [C++](CPP/Student/Student.h) | [Java](Java/Student/Student.java) | [Python](Python/Student/Student.py)
 
 [//]: # (End of list of challenges)
 
