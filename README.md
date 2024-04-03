@@ -10,14 +10,9 @@
 10. Is Prime?: [C++](CPP/Prime.cpp) | [Java](Java/Prime.java) | [Python](Python/Prime.py)
 11. Factorial: [C++](CPP/factorial.cpp) | [Java](Java/Factorial.java) | [Python](Python/factorial.py)
 12. Student Class: [C++](CPP/Student/Student.h) | [Java](Java/Student/Student.java) | [Python](Python/Student/Student.py)
+13. Fibonacci Series: [C++](CPP/fibonacci.cpp) | [Java](Java/Fibonacci.java) | [Python](Python/fibonacci.py)
+14. Palindrome Number: [C++](CPP/palindromeNumber.cpp) | [Java](Java/PalindromeNumber.java) | [Python](Python/palindromeNumber.py)
 
 
+touch CPP/palindromeNumber.cpp Java/PalindromeNumber.java Python/palindromeNumber.py
 
-
-
-
-
-
-
-
-[//]: # (End of list of challenges)
