@@ -7,7 +7,7 @@
 7. Temperature Converter: [C++](CPP/temperature.cpp) | [Java](Java/Temperature.java) | [Python](Python/temperature.py)
 8. Integer to String: [C++](CPP/intToString.cpp) | [Java](Java/IntToString.java) | [Python](Python/intToString.py)
 9. Reverse an Array (In-Place): [C++](CPP/reverseArray.cpp) | [Java](Java/ReverseArray.java) | [Python](Python/reverseArray.py)
-10. Is Prime?: [C++](CPP/Prime.cpp) | [Java](Java/Prime.java) | [Python](Python/Prime.py)
+10. Is Prime?: [C++](CPP/prime.cpp) | [Java](Java/Prime.java) | [Python](Python/prime.py)
 11. Factorial: [C++](CPP/factorial.cpp) | [Java](Java/Factorial.java) | [Python](Python/factorial.py)
 12. Student Class: [C++](CPP/Student/Student.h) | [Java](Java/Student/Student.java) | [Python](Python/Student/Student.py)
 13. Fibonacci Series: [C++](CPP/fibonacci.cpp) | [Java](Java/Fibonacci.java) | [Python](Python/fibonacci.py)
